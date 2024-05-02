@@ -1,0 +1,70 @@
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.exe
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.deps.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.runtimeconfig.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfoInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfo.cs
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\refint\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.genruntimeconfig.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\ref\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.exe
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.deps.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.runtimeconfig.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfoInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfo.cs
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\refint\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.genruntimeconfig.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\ref\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.exe
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.deps.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.runtimeconfig.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfoInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfo.cs
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\refint\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.genruntimeconfig.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\ref\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.exe
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.deps.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.runtimeconfig.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfoInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfo.cs
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\refint\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.genruntimeconfig.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\ref\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.exe
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.deps.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.runtimeconfig.json
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\bin\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfoInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.AssemblyInfo.cs
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\refint\Wiki OOP 2.dll
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.pdb
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\Wiki OOP 2.genruntimeconfig.cache
+C:\Users\wikto\Documents\Wiki OOP VISUAL STUDIO\2nd assignment - Copy - Copy - Copy - Copy\Wiki OOP 2\Wiki OOP 2\obj\Debug\net8.0\ref\Wiki OOP 2.dll
